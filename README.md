@@ -18,4 +18,4 @@ __Note__: Other commands are currently under development. Feel free to submit a 
 
 Made by: [Christopher Robin Chase](https://github.com/chrischase011)
 
-See [License](License)
+See [License](LICENSE)
